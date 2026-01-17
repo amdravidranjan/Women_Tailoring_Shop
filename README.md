@@ -59,7 +59,7 @@ If you are a local entrepreneur or a developer looking to build a similar websit
 
 **Need help?**  
 If you need assistance with deployment, customization, or want to create a similar digital presence for your business, I'd be happy to help.
-[**Contact me**](mailto:amdravidranjan@gmail.com?subject=Website%20Development%20Support%20Inquiry)
+Contact me at amdravidranjan@gmail.com .
 
 ## 🚀 How to Run Locally
 
@@ -83,7 +83,7 @@ If you need assistance with deployment, customization, or want to create a simil
 
 All images and design models displayed on this website are intended solely to demonstrate the **types of stitching work and model capabilities** offered by our shop. They are used for reference to help customers understand the variety of designs we can create.
 
-We sourced these reference images from public platforms like Pinterest and ShareChat. We do not claim ownership of the original photographs. If you are the copyright owner of any image used here and wish for it to be removed, please [click here to contact the developer](mailto:amdravidranjan@gmail.com?subject=Image%20Copyright%20Removal%20Request%20-%20Balaji%20Ladies%20Tailoring).
+We sourced these reference images from public platforms like Pinterest and ShareChat. We do not claim ownership of the original photographs. If you are the copyright owner of any image used here and wish for it to be removed, please contact me at amdravidranjan@gmail.com .
 
 
 ---
