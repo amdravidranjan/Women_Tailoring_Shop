@@ -33,3 +33,6 @@ tmp/
 # Ngrok executable and zip
 ngrok.exe
 ngrok.zip
+.vercel
+
+publishedname.txt
